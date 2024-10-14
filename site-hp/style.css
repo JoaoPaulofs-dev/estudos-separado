@@ -111,6 +111,7 @@ main a:hover{
     background-color: var(--cor3);
 }
 main img{
+    width: 100%;
     display: block;
     margin: auto;
     margin-bottom: 10px;
